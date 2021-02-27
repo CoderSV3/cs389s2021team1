@@ -47,3 +47,5 @@ Samuel Viveros (ScrumMaster), Haleigh Laffan, Maksym Karunos
 Slack, Discord, Text Messaging
 **Tools**
 Android Development Studio, Agile, Notion
+
+
